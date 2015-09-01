@@ -1,2 +1,3 @@
 FROM hello-world
-# force re-build
+
+ENV ZIPKIN_VERSION 1.0.9
